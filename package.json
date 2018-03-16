@@ -1,0 +1,23 @@
+{
+  "name": "subrabros",
+  "version": "1.0.0",
+  "description": "this project is to help us with web developing",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "runtests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balach1/superSubraBros.git"
+  },
+  "author": "Balach and Shabaz Subra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balach1/superSubraBros/issues"
+  },
+  "homepage": "https://github.com/Balach1/superSubraBros#readme"
+}
